@@ -1,0 +1,53 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="g0li.github.io" resolutions="1x" timestamp="1524956414222">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="3782523079" ref="index"/>
+    <file name="index.css" crc="442644672" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="rawpixel-com-589084-unsplash.jpg" crc="8503564" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="minimal-iphone-flat.png" crc="4211633013" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unnamed.png" crc="3994366481" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ic_launcher.png" crc="4098499693" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unnamed2.png" crc="3921275978" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u444-r.png" crc="3813861692" ref="index"/>
+    <file name="u452-r.png" crc="4145077876" ref="index"/>
+    <file name="u461-r.png" crc="163129109" ref="index"/>
+    <file name="u447-r.png" crc="306679654" ref="index"/>
+    <file name="u457-r.png" crc="464891750" ref="index"/>
+    <file name="003-github-character.svg" crc="3846774252" ref="index"/>
+    <file name="003-github-character_poster_u562.png" crc="3808913484" ref="index"/>
+    <file name="002-at.svg" crc="4226216223" ref="index"/>
+    <file name="002-at_poster_u491.png" crc="25871626" ref="index"/>
+    <file name="001-chat-bubbles-with-ellipsis.svg" crc="230462073" ref="index"/>
+    <file name="001-chat-bubbles-with-ellipsis_poster_u570.png" crc="3825289113" ref="index"/>
+  </folder>
+  <file name="index.html" crc="446061950" seo="true" mt="1524956152264" redirect="true"/>
+</manifest>
